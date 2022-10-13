@@ -1,0 +1,7 @@
+D:\ASP Projects\SwapnoNir\obj\Release\net6.0\PubTmp\Out\SwapnoNir.exe
+D:\ASP Projects\SwapnoNir\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\ASP Projects\SwapnoNir\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\ASP Projects\SwapnoNir\obj\Release\net6.0\PubTmp\Out\SwapnoNir.dll
+D:\ASP Projects\SwapnoNir\obj\Release\net6.0\PubTmp\Out\SwapnoNir.deps.json
+D:\ASP Projects\SwapnoNir\obj\Release\net6.0\PubTmp\Out\SwapnoNir.runtimeconfig.json
+D:\ASP Projects\SwapnoNir\obj\Release\net6.0\PubTmp\Out\SwapnoNir.pdb
